@@ -26,4 +26,13 @@
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/b4t7Jak)](http://discord.gg/b4t7Jak)
 
+<br/>
+
+# Stats
+
+<centre>
+
+[![Github statistics](https://github-readme-stats.vercel.app/api?username=Asianerd&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+</centre>
+
 thank you for visiting :D
