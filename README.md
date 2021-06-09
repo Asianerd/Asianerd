@@ -12,9 +12,10 @@
 
 Some of my works
 <centre>
-<div style="width:200px">Search function</div> | <div style="width:500px">Infinitely generating Geometry</div>
+Search function | Infinitely generating Geometry
 :--------------:|:-------------------------------:
 ![Search function in TextAdventure](SearchFunction.gif) | ![Geometry](Geometry.gif)
+<img width=200/>|<img width=200/>
 </centre>
 
 
