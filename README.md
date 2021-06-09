@@ -11,9 +11,13 @@
 - **I HATE NETWORKING**
 
 Some of my works
+<centre>
 Search function | Infinitely generating Geometry
---------------------------------:|:-----------------
+:--------------:|:-------------------------------:
 ![Search function in TextAdventure](SearchFunction.gif) | ![Geometry](Geometry.gif)
+<img width=200/>|<img width=200/>
+</centre>
+
 
 <br/>
 
