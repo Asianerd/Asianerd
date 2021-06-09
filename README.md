@@ -20,6 +20,14 @@
 
 <br/>
 
+# Stats
+
+|[![Github statistics](https://github-readme-stats.vercel.app/api?username=Asianerd&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asianerd&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)|
+|-:|:-|
+|[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ajian_nedo&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|  |
+
+<br/>
+
 # Discord
 
 [![ajian_nedo#8797](DiscordProfile.png)](https://discord.com/users/517998886141558786)
@@ -27,14 +35,5 @@
 [![Join our Discord server!](https://invidget.switchblade.xyz/b4t7Jak)](http://discord.gg/b4t7Jak)
 
 <br/>
-
-# Stats
-
-<centre>
-
-[![Github statistics](https://github-readme-stats.vercel.app/api?username=Asianerd&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-</centre>
-
-<iframe src="https://discord.com/widget?id=500614426051739669&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 thank you for visiting :D
