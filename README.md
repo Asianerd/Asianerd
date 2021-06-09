@@ -23,6 +23,9 @@
 # Discord
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/b4t7Jak)](http://discord.gg/b4t7Jak)
+<br/>
+
+or [![ajian_nedo#8797](Circle_blurred_pap.png)](https://discord.com/users/517998886141558786)
 
 
 thank you for visiting :D
