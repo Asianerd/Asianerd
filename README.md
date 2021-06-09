@@ -15,7 +15,8 @@
 
 <br/>
 
-*Join our Discord server!*
+*Join our Discord server!*\
+<br/>
 [![Join our Discord server!](https://invidget.switchblade.xyz/b4t7Jak)](http://discord.gg/b4t7Jak)
 
 
