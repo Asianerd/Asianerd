@@ -13,12 +13,13 @@
 Some of my works
 |<div style="width:200">Search function</div> | <div style="width:500">Infinitely generating Geometry</div>|
 :--------------:|:-------------------------------:
-|![Search function in TextAdventure](SearchFunction.gif) | ![Geometry](Geometry.gif)|
+|[![Search function in TextAdventure](SearchFunction.gif)](https://github.com/Asianerd/TextAdventure/blob/7ca6f2518d01867eb89405e714312a032e92b02a/TextAdventure/Inventory.cs#L121) | ![Geometry](Geometry.gif)|
 
 <br/>
 
 *Join our Discord server!*\
 <br/>
+
 [![Join our Discord server!](https://invidget.switchblade.xyz/b4t7Jak)](http://discord.gg/b4t7Jak)
 
 
