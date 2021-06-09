@@ -22,7 +22,7 @@
 
 # Discord
 
-[![ajian_nedo#8797](Circle_blurred_pap.png)](https://discord.com/users/517998886141558786)
+[![ajian_nedo#8797](DiscordProfile.png)](https://discord.com/users/517998886141558786)
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/b4t7Jak)](http://discord.gg/b4t7Jak)
 
