@@ -24,7 +24,7 @@
 
 |[![Github statistics](https://github-readme-stats.vercel.app/api?username=Asianerd&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asianerd&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)|
 |-:|:-|
-|[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ajian_nedo&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|  |
+|[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ajian_nedo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)|  |
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 [![ajian_nedo#8797](DiscordProfile.png)](https://discord.com/users/517998886141558786)
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/b4t7Jak)](http://discord.gg/b4t7Jak)
+<!--[Join our Discord server!](https://invidget.switchblade.xyz/b4t7Jak)](http://discord.gg/b4t7Jak)-->
 
 <br/>
 
