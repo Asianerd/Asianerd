@@ -24,7 +24,7 @@
 
 |<div style="width:300px">Hours</div> | <div style="width:300px">Languages</div>|
 :------:|:-------:
-|[![Activity](https://wakatime.com/share/@ajian_nedo/db141280-e10b-443a-b2ab-3e98178558d5.svg)](https://wakatime.com) | [![Languages](https://wakatime.com/share/@ajian_nedo/a6cdcb09-36d0-4a09-8e92-ae92f736c5d5.svg)](https://wakatime.com)|
+|[![Activity](https://wakatime.com/share/@ajian_nedo/db141280-e10b-443a-b2ab-3e98178558d5.svg)](https://wakatime.com) <img width=300/>| [![Languages](https://wakatime.com/share/@ajian_nedo/a6cdcb09-36d0-4a09-8e92-ae92f736c5d5.svg)](https://wakatime.com) <img width=300/>|
 
 <br/>
 
