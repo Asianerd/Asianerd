@@ -1,7 +1,6 @@
 <div>
-    <center>
-    <img src="EvangalionCropped.png">
-    <details>
+    <img src="EvangalionCropped.png" align="center">
+    <details align="center">
         <summary>🌌</summary>
         <br>
         <img src="https://github-readme-stats.vercel.app/api?username=Asianerd&theme=midnight-purple">
@@ -15,5 +14,4 @@
         <p>C# and Java forever</p>
         <p>Static-typing 👍    Dynamic-typing & Duck-typing 👎</p>
     </details>
-    </center>
 </div>
