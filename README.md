@@ -1,7 +1,8 @@
-<div style="text-align: center;">
-    <img style="border-radius: 50px;" src="Evangalion.png">
+<div>
+    <center>
+    <img src="EvangalionCropped.png">
     <details>
-        <summary style="cursor:pointer;">🌌</summary>
+        <summary>🌌</summary>
         <br>
         <img src="https://github-readme-stats.vercel.app/api?username=Asianerd&theme=midnight-purple">
         <br><br><br>
@@ -10,10 +11,9 @@
         <br><br><br>
         <a href="https://github.com/Asianerd/TextAdventure/blob/7ca6f2518d01867eb89405e714312a032e92b02a/TextAdventure/Inventory.cs#L121"><img src="SearchFunction.gif" height=300px></a>
         <img src="Geometry.gif" height=300px>
-        <br><br><br><br><br><br>
+        <br><br>
         <p>C# and Java forever</p>
         <p>Static-typing 👍    Dynamic-typing & Duck-typing 👎</p>
-        <br>
-        <p style="font-weight:bold;">ajian_nedo</p>
     </details>
+    </center>
 </div>
