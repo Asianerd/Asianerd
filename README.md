@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="EvangalionCropped.png">
+    <img src="EvangelionCropped.png">
 </div>
 <details align="center">
     <summary>🌌</summary>
