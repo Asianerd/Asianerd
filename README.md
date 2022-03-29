@@ -8,10 +8,7 @@
     <br><br><br>
     <a href="https://wakatime.com/share/@ajian_nedo/db141280-e10b-443a-b2ab-3e98178558d5.svg"><img src="https://wakatime.com/share/@ajian_nedo/db141280-e10b-443a-b2ab-3e98178558d5.svg" width= 300px></a>
     <a href="https://wakatime.com/share/@ajian_nedo/a6cdcb09-36d0-4a09-8e92-ae92f736c5d5.svg"><img src="https://wakatime.com/share/@ajian_nedo/a6cdcb09-36d0-4a09-8e92-ae92f736c5d5.svg" width= 300px></a>
-    <br><br><br>
-    <h3 align="center">Some of my works</h3>
-    <a href="https://github.com/Asianerd/TextAdventure/blob/7ca6f2518d01867eb89405e714312a032e92b02a/TextAdventure/Inventory.cs#L121"><img src="SearchFunction.gif" height=300px></a>
-    <img src="Geometry.gif" height=300px>
+    <a href="https://wakatime.com/@d6b1f4c7-8bfa-48cf-9ac6-84a770edb2e7"><img src="https://wakatime.com/badge/user/d6b1f4c7-8bfa-48cf-9ac6-84a770edb2e7.svg" alt="Total time coded since Jun 9 2021" /></a>
     <br><br>
     <p>C# and Java forever</p>
     <p>Static-typing 👍    Dynamic-typing & Duck-typing 👎</p>
